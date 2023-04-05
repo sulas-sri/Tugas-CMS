@@ -1,2 +1,2 @@
-Nama : Sulas Sri
-Asal Perguruan Tinggi : Politeknik Negeri Semarang
+# Nama : Sulas Sri
+# Asal Perguruan Tinggi : Politeknik Negeri Semarang
